@@ -1,36 +1,64 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## Personal Portfolio Website
 
-## Getting Started
+Welcome to my personal portfolio website!
 
-First, run the development server:
+This website showcases my skills, projects, and professional journey. It was crafted using modern web development tools and enhanced by creative design libraries to provide a sleek and dynamic user experience.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+-   Responsive design optimized for all devices, from desktops to smartphones.
+-   Built with cutting-edge tools for a seamless and interactive user interface.
+-   Includes a showcase section highlighting my projects with descriptions, animations, and relevant links.
+-   Features an "About Me" section to share my background, skills, and interests.
+-   Contact section to connect via email or social media.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Tech Stack
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+-   Frontend Framework: Next.js
+-   Programming Language: TypeScript
+-   Styling: TailwindCSS with shadcn components
+-   Icons: Lucide Icons
+-   Animations: Framer Motion
 
-## Learn More
+### Setup Instructions
 
-To learn more about Next.js, take a look at the following resources:
+If you'd like to explore or modify the project locally:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1. Clone the repository using `git clone
+   Built with cutting-edge tools for a seamless and interactive user interface.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+2. Includes a showcase section highlighting my projects with descriptions, animations, and relevant links.
 
-## Deploy on Vercel
+3. Features an "About Me" section to share my background, skills, and interests.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+4. Contact section to connect via email or social media.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### Tech Stack
+
+-   Frontend Framework: Next.js
+-   Programming Language: TypeScript
+-   Styling: TailwindCSS with shadcn components
+-   Icons: Lucide Icons
+-   Animations: Framer Motion
+
+### Setup Instructions
+
+If you'd like to explore or modify the project locally:
+
+-   Clone the repository using git clone.
+
+-   And navigate to the folder using cd portfolio-website.
+
+-   Install dependencies by running npm install.
+
+-   Start the development server with npm run dev.
+
+-   Open your browser and navigate to http://localhost:3000.
+
+### Acknowledgments
+
+This portfolio leverages the power of Next.js and TailwindCSS, along with creative libraries like shadcn, Lucide Icons, and Framer Motion. Thanks to the contributors of these tools for enabling a streamlined development experience.
+
+### Feedback
+
+I’d love to hear your thoughts! Feel free to share feedback or submit an issue.
