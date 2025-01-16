@@ -13,6 +13,24 @@ const projects = [
 		demo: "https://mystorybuild.vercel.app/",
 	},
 	{
+		title: "Zcrum (Jira-Clone)",
+		description:
+			"This project is a full-stack Jira clone built using modern web development tools and libraries.",
+		image: "/zcrum.png?height=200&width=300",
+		tech: [
+			"Next.js",
+			"React",
+			"Tailwind CSS",
+			"Shadcn UI",
+			"NeonDB",
+			"Prisma ORM",
+			"Clerk Authentication",
+			"Vercel Deployment",
+		],
+		github: "https://github.com/MishraTanishq619/jira-clone",
+		demo: "https://jira-clone-mishra-tanishq.vercel.app/",
+	},
+	{
 		title: "Event Registration & Management",
 		description:
 			"A comprehensive full-stack website for event registration and management.",
