@@ -98,7 +98,7 @@ export default function Projects() {
 					whileInView="visible"
 					viewport={{ once: true, amount: 0.2 }}
 				>
-					{projects.map((project, index) => (
+					{projects.map((project) => (
 						<motion.div
 							key={project.title}
 							className="bg-white dark:bg-gray-700 rounded-xl overflow-hidden shadow-lg transition-all duration-300 hover:shadow-2xl"

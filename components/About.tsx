@@ -56,20 +56,45 @@ export default function About() {
 							className="space-y-4"
 							variants={itemVariants}
 						>
-							<p>
-								I am a 3rd Year Student, pursuing B.Tech in CSE.
-								I am interested in Full Stack Web Development
-								and learning them by myself. I hope to make my
-								career as a Remote Web Engineer.
+							<p className="text-lg text-gray-700 dark:text-gray-300">
+								Hello! I&apos;m Tanishq Mishra, a passionate
+								software developer with a keen interest in
+								building innovative web applications. I love
+								exploring new technologies and continuously
+								improving my skills.
 							</p>
-							<p>
-								I am looking forward to GSOC, MLH fellowship and
-								other Hackathons and Open Source Programs in my
-								interests.
+							<p className="text-lg text-gray-700 dark:text-gray-300">
+								Final-year B.Tech Computer Science student with
+								a strong passion for full-stack development and
+								building user-centric web platforms.
 							</p>
-							<p>
-								Currently, I have a CGPA of 8.5 in my B.Tech CSE
-								program (2022-2026).
+							<p className="text-lg text-gray-700 dark:text-gray-300">
+								Experienced in leading development teams,
+								conducting requirement analysis, and designing
+								scalable systems with robust role-based access
+								control.
+							</p>
+							<p className="text-lg text-gray-700 dark:text-gray-300">
+								Regular contributor to open-source initiatives
+								and collaborative coding events such as
+								Hacktoberfest and GSSOC.
+							</p>
+							<p className="text-lg text-gray-700 dark:text-gray-300">
+								Strong understanding of software development
+								principles, system design, and modern deployment
+								practices.
+							</p>
+							<p className="text-lg text-gray-700 dark:text-gray-300">
+								Highly self-motivated and committed to
+								continuous learning through personal projects,
+								open-source contributions, and community
+								programs.
+							</p>
+							<p className="text-lg text-gray-700 dark:text-gray-300">
+								Actively pursuing remote opportunities to
+								contribute to impactful products and gain
+								experience through global programs like GSoC,
+								MLH Fellowship, and hackathons.
 							</p>
 						</motion.div>
 					</div>
