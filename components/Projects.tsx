@@ -53,7 +53,7 @@ const projects = [
 		image: "/yt-clone.png?height=200&width=300",
 		tech: ["NextJs", "TailwindCSS", "Typescript", "ShadcnUI", "RapidAPI"],
 		github: "https://github.com/MishraTanishq619/Youtube_Clone",
-		demo: "https://stupendous-biscuit-8ddd46.netlify.app/",
+		demo: "https://youtube-clone-mishratanishq619.netlify.app/",
 	},
 ];
 
